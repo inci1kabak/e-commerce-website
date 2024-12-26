@@ -1,0 +1,54 @@
+.image {
+    width: 180px;
+    height: 240px;
+}
+
+.card {
+    width: 200px;
+    height: 450px;
+    box-shadow: 1px 4px 3px lightgray;
+    border-radius: 10px;
+    margin: 15px;
+
+}
+
+.card:hover {
+    box-shadow: 1px 4px 3px rgb(139, 139, 139);
+    transition: all 0.6;
+    cursor: pointer;
+}
+
+.detail-button {
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: rgb(135, 169, 210);
+
+
+}
+
+.detail-button:hover {
+    cursor: pointer;
+    background-color: rgb(86, 148, 194);
+    transition: all 0.6;
+}
+
+
+.buton2 {
+    /*marginTop: 25px , */
+    border: none;
+    padding: 20px;
+    background-color: rgb(135, 169, 210);
+    color: #fff;
+    font-size: 20px;
+    border-radius: 5px;
+
+
+}
+
+.buton2:hover {
+    cursor: pointer;
+    background-color: rgb(86, 148, 194);
+    transition: all 0.6;
+
+}
