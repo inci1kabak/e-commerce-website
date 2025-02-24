@@ -1,5 +1,5 @@
 # E-commorce website
-## Dark/Light Mode Toggle:
+## *Dark/Light Mode Toggle:*
 Users can switch between dark and light modes for a personalized viewing experience.
 ## Detailed Product View:
 Users can view detailed information about each product.
