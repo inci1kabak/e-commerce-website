@@ -1,4 +1,4 @@
-# E-COMMORCE WEBSITE :
+# E-commorce Website
    ## Dark - Light Mode Toggle:
       Users can switch between dark and light modes for a personalized viewing experience.
       
